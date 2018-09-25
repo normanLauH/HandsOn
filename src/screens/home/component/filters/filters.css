@@ -1,0 +1,17 @@
+.Filters{
+    display: flex;
+    padding: 15px;
+}
+
+.Search{
+    border-radius: 5px;
+    flex-grow: 7;
+    margin: 5px;
+    height: 30px;
+}
+.Filters select{
+    border-radius: 5px;
+    flex-grow: 1;
+    margin: 5px;
+    height: 35px;
+}
